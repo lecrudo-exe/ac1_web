@@ -1,0 +1,25 @@
+{
+    "produtos": [
+    {
+    "id": 1,
+    "descricao": "Acessórios",
+    "estoque": 10,
+    "valor": 10,
+    "imagem": "../mama.jpg"
+    },
+    {
+    "id": 2,
+    "descricao": "Capinhas",
+    "estoque": 10,
+    "valor": 15,
+    "imagem" : "../download.jpg"
+    },
+    {
+    "id": 3,
+    "descricao": "Carregador",
+    "estoque": 10,
+    "valor": 25,
+    "imagem" : "../download(2).jpg"
+    }
+    ]
+   }
